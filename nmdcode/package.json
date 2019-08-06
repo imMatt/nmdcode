@@ -1,0 +1,21 @@
+{
+    "name": "nmdcode",
+    "displayName": "nmdcode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nmdcode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nmdcode-color-theme.json"
+            }
+        ]
+    }
+}
